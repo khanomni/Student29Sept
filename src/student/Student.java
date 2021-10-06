@@ -10,6 +10,7 @@ package student;
  * @author Amna
  */
 //Changes done on GitHub
+//Changes done for Fetch and Merge
 public class Student {
        private String name;
        private String address;
