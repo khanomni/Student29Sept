@@ -6,8 +6,8 @@
 package student;
 
 /**for pull
- *this is commment added
- * @author Ronak
+ *this is comment added
+ * @author Amna
  */
 public class Student {
        private String name;
